@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-01T19:54:20 CET" name="Default suite" finished-at="2022-03-01T19:54:38 CET" duration-ms="18338">
+    <groups>
+    </groups>
+    <test started-at="2022-03-01T19:54:20 CET" name="Default test" finished-at="2022-03-01T19:54:38 CET" duration-ms="18338">
+      <class name="testinpackage.Testcases">
+        <test-method is-config="true" signature="beforesuitsMethods()[pri:0, instance:testinpackage.Testcases@63a65a25]" started-at="2022-03-01T19:54:04 CET" name="beforesuitsMethods" finished-at="2022-03-01T19:54:20 CET" duration-ms="15582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuitsMethods -->
+        <test-method signature="addvendor(java.lang.String, java.lang.String)[pri:0, instance:testinpackage.Testcases@63a65a25]" started-at="2022-03-01T19:54:31 CET" name="addvendor" data-provider="DataContainer" finished-at="2022-03-01T19:54:38 CET" duration-ms="7185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sakshi.anand1992@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nisSak@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addvendor -->
+      </class> <!-- testinpackage.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

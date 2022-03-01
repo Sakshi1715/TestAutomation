@@ -1,0 +1,8 @@
+<suite name="Ecomerce">
+  <test name="Test">
+    <classes>
+    <class name="testinpackage.NewTest1"/>
+    <class name="testinpackage.NewTest2"/>
+    </classes>
+  </test> 
+</suite> 
